@@ -1,5 +1,4 @@
-// 
-// import java.util.Arrays;
+// First highest repeating digit in an array.
 class Day3_FirstHighestRepeatingDigit{
 	public static void main(String[] args) {
 		int [] arr = {1,2,3,3,5,1,4,3,1,1,3,6};
